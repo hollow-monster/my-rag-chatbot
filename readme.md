@@ -1,4 +1,4 @@
-
+**🔗 线上体验地址：** [点击这里访问 RAG 智能客服](https://my-rag-chatbot-nf8cyp8h8prqdb9ysxxru9.streamlit.app/)
 # 🤖 RAG 智能客服助手 (RAG Intelligent Chatbot)
 
 这是一个基于 **RAG (检索增强生成)** 技术构建的本地化智能客服问答系统。本项目允许用户将个人的本地知识库（如 TXT 文档）上传至向量数据库，并利用大语言模型（LLM）基于这些私有知识进行精准作答，有效避免了大模型的“幻觉”问题。
