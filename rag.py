@@ -3,8 +3,8 @@ import os
 from langchain_core.documents import Document
 from langchain_core.runnables import RunnablePassthrough, RunnableWithMessageHistory, RunnableLambda
 
-# sk-ws-H.RYIDYEP.0fFx.MEUCIQC3MdRPMm7x-6LP9L95pHuYv7u4c9b6Rhz2Osd4Tv9ziAIgUVCW799n_dIz_X4q9mnFu20Z467LYz9byJVf8qYxYqw
-# os.environ["DASHSCOPE_API_KEY"] = "sk-7cb5df8f22d3436cb5ba2dbb0c3ad389"
+
+os.environ["DASHSCOPE_API_KEY"] = ""
 os.environ["GRPC_VERBOSITY"] = "ERROR"
 from file_history_store import get_history
 from vector_stores import VectorStoreService
