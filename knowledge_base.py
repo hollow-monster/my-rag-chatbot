@@ -1,5 +1,5 @@
 import os
-os.environ["DASHSCOPE_API_KEY"] = "sk-7cb5df8f22d3436cb5ba2dbb0c3ad389"
+os.environ["DASHSCOPE_API_KEY"] = ""
 os.environ["GRPC_VERBOSITY"] = "ERROR"
 
 import config_data as config
